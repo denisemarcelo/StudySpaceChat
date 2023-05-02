@@ -3,8 +3,8 @@ import './globals.css'
 
 // Done after the video and optional: add page metadata
 export const metadata = {
-  title: 'FriendZone | Home',
-  description: 'Welcome to the FriendZone',
+  title: 'StudySpace',
+  description: 'Welcome to the StudySpace',
 }
 
 export default function RootLayout({
