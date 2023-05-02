@@ -15,7 +15,7 @@
   
   .scrollbar-track-blue-lighter::-webkit-scrollbar-track {
     --bg-opacity: 1;
-    background-color: #f7fafc;
+    background-color: #ffff;
     background-color: rgba(247, 250, 252, var(--bg-opacity));
   }
   
